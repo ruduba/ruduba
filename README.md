@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⋆｡°✩ vatsala budur ✩°｡⋆ 
+# ⋆｡°✩vatsala budur✩°｡⋆ 
 ### <pixel>cse undergrad  ☆ system engineering ☆ y2k-coded builder</pixel>
 
 ## about me  
@@ -14,11 +14,11 @@ work in progress build: **bysepkurl (a microblog)**
 </div>
 
 ## Tech Stack
-★ core dev       → Python ⋆ Java ⋆ JavaScript ⋆ C++ ⋆ C <br>
-★ frontend       → p5.js ⋆ React.js ⋆ Streamlit <br>
-★ data/ML        → NumPy ⋆ Pandas ⋆ Scikit-learn<br>
-★ hardware       → Arduino<br>
-★ tools          → Git ⋆ Figma <br>
+★ core dev       -> Python ⋆ Java ⋆ JavaScript ⋆ C++ ⋆ C <br>
+★ frontend       -> p5.js ⋆ React.js ⋆ Streamlit <br>
+★ data/ML        -> NumPy ⋆ Pandas ⋆ Scikit-learn<br>
+★ hardware       -> Arduino<br>
+★ tools          -> Git ⋆ Figma <br>
 
 <div align = "right">
 
@@ -52,6 +52,10 @@ hyperfixating until i fix that bug ★ <br>
 
 </div>
 
+<br>
+<br>
+<div align = "center">
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ruduba&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
@@ -60,3 +64,6 @@ hyperfixating until i fix that bug ★ <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ruduba&icon=9&color=3)](https://visitcount.itsvg.in)
+
+  
+</div>
