@@ -46,7 +46,7 @@ hyperfixating until i fix that bug ★ <br>
 <div align="center">
 
 ## lets connect?
-[LinkedIn](https://linkedin.com/in/vatsala-budur-83ab25259/) ★ [Youtube](https://youtube.com/@@vatsalabudur) ★ [Email](mailto:budur.vatsala@gmail.com)
+[LinkedIn](https://linkedin.com/in/vatsala-budur-83ab25259/) ★ [Youtube](https://www.youtube.com/channel/UCGr6veWRE1Zago5IiFUPDFw) ★ [Email](mailto:budur.vatsala@gmail.com)
 
 **“built with errors but committed anyway.”**
 
