@@ -1,7 +1,7 @@
 <div align="center">
   
 # ⋆｡°✩vatsala budur✩°｡⋆ 
-### <pixel>cse undergrad  ☆ system engineering ☆ y2k-coded builder</pixel>
+### <pixel>cs undergrad  ☆ engineer ☆ y2k-coded builder</pixel>
 
 ## about me  
 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚕𝚘𝚘𝚔 𝚕𝚒𝚔𝚎 𝚜𝚌𝚒-𝚏𝚒
