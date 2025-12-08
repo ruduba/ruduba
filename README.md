@@ -7,9 +7,9 @@
 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚕𝚘𝚘𝚔 𝚕𝚒𝚔𝚎 𝚜𝚌𝚒-𝚏𝚒
 
 final-year cse @ mvjce  <br>
-current build: **java based blockchain**<br>
+current build: **console based first person perspective game built in C++**<br>
 major build: **real-time facial mapping + prosthetic mesh generation**  <br>
-past builds: **webcam -> ascii, stupid game(nugget-OOF), bubblesort visualizer**  <br>
+completed builds: **java based blockchain, webcam -> ascii, stupid game(nugget-OOF), bubblesort visualizer**  <br>
 work in progress build: **bysepkurl (a microblog)**
 </div>
 
