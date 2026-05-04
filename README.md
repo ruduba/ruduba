@@ -5,5 +5,7 @@
 </p>
 
 ![Daily Solar Update](https://github.com/ruduba/sol-cron/actions/workflows/sol-cron.yml/badge.svg)
+
 <div align="center">  
+  
 ### Check out my website [here!](https://ruduba.github.io/vatsala-budur/)
