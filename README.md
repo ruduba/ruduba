@@ -4,7 +4,7 @@
   <img src="https://github.com/ruduba/sol-cron/raw/main/template.svg" alt="solar path tracker" width="800">
 </p>
 
-![Daily Solar Update](https://github.com/ruduba/sol-cron/actions/workflows/solar_pipeline.yml/badge.svg)
+![Daily Solar Update](https://github.com/ruduba/sol-cron/actions/workflows/sol-cron.yml/badge.svg)
 
 <div align="center">
   
