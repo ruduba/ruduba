@@ -1,6 +1,6 @@
 <div align="center">  
 
-### sol-cron: where the sun is everyday at 1.10pm IST 
+### sol-cron: where the sun is everyday at 2.00pm IST 
  _(as seen from my balcony)_
 
 <p align="center">
