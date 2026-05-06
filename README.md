@@ -1,6 +1,6 @@
 <div align="center">  
 
-### sol-cron: where the sun is everyday at 2.00pm IST 
+### sol-cron: where the sun is everytime this script runs
  _(as seen from my balcony)_
 
 <p align="center">
